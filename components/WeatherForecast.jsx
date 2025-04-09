@@ -1,7 +1,6 @@
 import React from "react";
 import "./WeatherForecast.css";
 import WeatherCard from "./WeatherCard";
-// import "./src/components/WeatherForecast.css";
 
 const WeatherForecast = () => {
   const weatherForecasts = [
